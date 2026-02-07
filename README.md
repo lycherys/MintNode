@@ -1,4 +1,3 @@
-
 # MintNode: At the edge of decentralized commerce, MintNode converges real-time forging a secure, high-performance nexus within the innovation Lab Implementation
 > Advanced php solution leveraging modern architecture patterns and cutting-edge technology.
 
